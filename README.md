@@ -14,7 +14,10 @@ This project demonstrates foundational concepts in low-level file I/O, memory ma
 
 The application monitors a designated target file named `server_logs.txt`. During execution, it sequentially scans each entry for the `FAILED` keyword. Upon completion, the program aggregates the telemetry data and outputs a comprehensive analysis report directly to the standard output.
 
-### Target Output Structure:
+## 🤖 AI-Assisted Development
+This project was developed using an AI-assisted workflow and a Human-AI pair programming approach, leveraging Large Language Models (LLMs) for code optimization and structural refinement.
+
+### Target Output Structure
 
 ```text
 === SECURITY LOG ANALYZER ===
@@ -26,5 +29,3 @@ Scanning for suspicious activities...
 === ANALYSIS REPORT ===
 Total Failed Login Attempts Detected: 4
 Security Status: WARNING (Potential Brute-Force Attack)
-
-Developed using an AI-assisted workflows / Human-AI pair programming approach, leveraging LLMs for code optimization and structural refinement.
