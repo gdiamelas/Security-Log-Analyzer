@@ -14,7 +14,7 @@ This project demonstrates foundational concepts in low-level file I/O, memory ma
 
 The application monitors a designated target file named `server_logs.txt`. During execution, it sequentially scans each entry for the `FAILED` keyword. Upon completion, the program aggregates the telemetry data and outputs a comprehensive analysis report directly to the standard output.
 
-## 🤖 AI-Assisted Development
+## AI-Assisted Development
 This project was developed using an AI-assisted workflow and a Human-AI pair programming approach, leveraging Large Language Models (LLMs) for code optimization and structural refinement.
 
 ### Target Output Structure
